@@ -10,6 +10,24 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title>css</title>
 	<link rel="stylesheet/css" href="global.css">
+		<style>
+		.error{
+			background-color:orange;
+			color:red;
+			font-weight:bold;
+			font-size:20px;
+			padding:4px;
+			margin:2px;
+		}
+		.success{
+			background-color:green;
+			color:yellow;
+			font-weight:bold;
+			font-size:20px;
+			padding:4px;
+			margin:2px;
+		}
+	</style>
 </head>
 <body>
 	<header>
